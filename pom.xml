@@ -185,7 +185,7 @@
 
             <artifactId>spring-security-core</artifactId>
 
-            <version>3.2.5.RELEASE</version>
+            <version>4.2.0.RELEASE</version>
 
         </dependency>
 
